@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nalin Joshi</h1>
-<h3 align="center">A Front Developer||Game Developer||Digital Artist/h3>
+<h3 align="center">A Front Developer||Game Developer||Digital Artist </h3>
 
 <p align="left">
 </p>
